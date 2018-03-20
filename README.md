@@ -1,2 +1,2 @@
 # 2018-NCTU-DL
-Deep Learning Lab for NCTU course
+Lab0: XOR neural network
