@@ -1,2 +1,1 @@
-# 2018-NCTU-DL
-Lab0: XOR neural network
+# [Lab0 XOR Neural Network](lab0/)
