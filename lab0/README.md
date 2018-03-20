@@ -2,6 +2,10 @@
 
 Write a simple "XOR" neural network only using numpy and stantard python library.
 
+## Architecture
+
+![alt text](http://www.bogotobogo.com/python/images/NeuralNetrworksXOR/NeuralNetworksDiagram00.png)
+
 ## Reference
 
 * [Logical regression](http://www.bogotobogo.com/python/scikit-learn/logistic_regression.php)
