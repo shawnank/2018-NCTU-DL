@@ -1,8 +1,8 @@
 # Lab0 Warm-up
 
-*Write a simple "XOR" neural network
-*No using framework like tensorflow, pytorch, etc
-*Must have backpropagation
+* Write a simple "XOR" neural network
+* No using framework like tensorflow, pytorch, etc
+* Must have backpropagation
 
 ## Architecture
 
