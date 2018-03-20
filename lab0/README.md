@@ -1,10 +1,19 @@
 # Lab0 Warm-up
 
-Write a simple "XOR" neural network only using numpy and stantard python library.
+*Write a simple "XOR" neural network
+*No using framework like tensorflow, pytorch, etc
+*Must have backpropagation
 
 ## Architecture
 
 ![alt text](http://www.bogotobogo.com/python/images/NeuralNetrworksXOR/NeuralNetworksDiagram00.png)
+
+## Sigmoid Function
+
+```
+def sigmoid(x):
+    return 1.0 / (1.0 + np.exp(-x))
+```
 
 ## Reference
 
