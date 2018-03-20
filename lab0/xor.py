@@ -110,7 +110,7 @@ if __name__ == "__main__":
     #X means input and Y means output for a xor gate
     X=np.array([[0,0],[0,1],[1,0],[1,1]])
     Y=np.array([0,1,1,0])
-    #create a new neural network and train it for 500 iterations, then test it
+    #create a new neural network and train it for 100000 iterations, then test it
     new_NN=NN(X,Y)
     new_NN.train(X,Y,100000)
     new_NN.test(X,Y)
